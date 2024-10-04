@@ -1,9 +1,37 @@
 import { Outlet } from "react-router-dom";
+import TripsList from "../assets/trips.json";
+import TripsListItem from "../components/TripsListItem";
 
 export default function Root() {
+	const list = TripsList.Trips;
 	return (
 		<>
-			<div id="sidebar">
+		
+			<h1>Hello!</h1>
+			<div>
+				<ul>
+					{list.map((project) => {
+						return (
+							<TripsListItem
+								key={project.id}
+								date={project.date}
+								location={project.location}
+								shortDescription={project.shortDescription}
+								description={project.description}
+								images={project.images}
+								extraStuff={project.extraStuff}
+								id={project.id}
+							/>
+						);
+					})}
+				</ul>
+			</div>
+		</>
+	);
+}
+
+/*
+<div id="sidebar">
 				<h1>React Router Contacts</h1>
 				<div>
 					<form id="search-form" role="search">
@@ -35,6 +63,4 @@ export default function Root() {
 			<div id="detail">
 				<Outlet />
 			</div>
-		</>
-	);
-}
+*/

@@ -1,6 +1,6 @@
 import { Form } from "react-router-dom";
 
-export default function Contact() {
+export default function Post() {
 	const contact = {
 		first: "Your",
 		last: "Name",

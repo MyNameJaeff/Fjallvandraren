@@ -1,0 +1,39 @@
+{
+    "Trips": [
+        {
+            "date": "2021-06-01",
+            "location": "Bali",
+            "shortDescription": "A trip to Bali",
+            "description": "A trip to Bali, Indonesia. We visited the beaches, the temples, and the rice fields. We also went to the monkey forest and the waterfalls.",
+            "images": ["bali.jpg"],
+            "extraStuff": [
+                {
+                    "name": "Beaches",
+                    "description": "We visited the beaches in Bali. They were beautiful and the water was warm.",
+                    "images": ["beaches.jpg"]
+                },
+                {
+                    "name": "Temples",
+                    "description": "We visited the temples in Bali. They were beautiful and the architecture was amazing.",
+                    "images": ["temples.jpg"]
+                },
+                {
+                    "name": "Rice Fields",
+                    "description": "We visited the rice fields in Bali. They were beautiful and the rice was delicious.",
+                    "images": ["ricefields.jpg"]
+                },
+                {
+                    "name": "Monkey Forest",
+                    "description": "We visited the monkey forest in Bali. The monkeys were cute and friendly.",
+                    "images": ["monkeyforest.jpg"]
+                },
+                {
+                    "name": "Waterfalls",
+                    "description": "We visited the waterfalls in Bali. They were beautiful and the water was refreshing.",
+                    "images": ["waterfalls.jpg"]
+                }
+            ],
+            "id": 1
+        }
+    ]
+}
