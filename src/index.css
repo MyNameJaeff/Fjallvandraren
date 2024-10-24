@@ -1,11 +1,255 @@
-li{
-  display: flex;
-  list-style-type: none;
+* {
   margin: 0;
   padding: 0;
-  text-wrap: wrap;
 }
-.projectListName {
-  width: 80%;
-  text-wrap: wrap;
+
+html {
+  scroll-behavior: smooth;
+}
+
+main {
+  height: 100vh;
+  overflow: hidden; /* Ensures the pseudo-element doesn't affect layout */
+}
+
+main::after {
+  content: ""; /* Required for pseudo-elements */
+  position: absolute; /* Position it relative to the parent */
+  left: 0;
+  right: 0;
+  bottom: 0; /* Position at the bottom of the div */
+  height: 50px; /* Height of the blur effect */
+  background: rgba(255, 255, 255, 0.5); /* Semi-transparent background for fog effect */
+  filter: blur(20px); /* Apply blur effect */
+  pointer-events: none; /* Allow clicks to pass through */
+}
+
+.selected-trip {
+  height: 100vh;
+  background-color: skyblue; /* //TODO Change the background color to something more fitting */
+}
+
+.main-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main-title {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 4%;
+}
+
+.main-search {
+  display: flex;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 40%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.search-box {
+  background-color: whitesmoke;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  width: 20%;
+  color: black;
+  border-radius: 0.5em;
+  box-shadow: -8px 8px 8px rgba(0, 0, 0, 0.2);
+}
+
+.focused{
+  border-radius: 0.5em 0.5em 0 0;
+}
+
+.search-bar {
+  resize: none;
+  width: 100%;
+  border: none;
+  font-size: 1.2em;
+  height: 20px;
+  background-color: transparent;
+}
+
+.search-bar:focus {
+  outline: none;
+}
+
+.dropdown-content {
+  position: relative;
+  min-width: 160px;
+  box-shadow: -8px 8px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  width: calc(20% + 24px);
+  background-color: transparent;
+  border-radius: 0 0 0.5em 0.5em;
+}
+
+/* Links inside the dropdown */
+.dropdown-content div {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background-color: whitesmoke;
+}
+
+/* Last a child 0.6em border radius */
+.dropdown-content div:last-child {
+  border-radius: 0 0 0.5em 0.5em;
+}
+
+/* Change background color on hover */
+.dropdown-content div:hover {
+  background-color: #cacaca;
+  cursor: pointer;
+}
+
+/* The dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.scroll-indicator {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 3rem; /* Size of the arrow */
+  color: white; /* Arrow color */
+  cursor: pointer; /* Show the hand cursor */
+  animation: bounce 2s infinite; /* Bounce animation */
+}
+
+/* Bounce animation for the arrow */
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Selected trip styling here */
+
+.selected-trip {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  position: relative; /* Required for pseudo-elements */
+}
+
+.selected-trip::before {
+  content: ""; /* Required for pseudo-elements */
+  position: absolute; /* Position it relative to the parent */
+  left: 0;
+  right: 0;
+  top: 0; /* Position at the top of the div */
+  height: 50px; /* Height of the blur effect */
+  background: rgba(255, 255, 255, 0.4); /* Semi-transparent background for fog effect */
+  filter: blur(20px); /* Apply blur effect */
+  pointer-events: none; /* Allow clicks to pass through */
+}
+
+.theSelectedTrip{
+  height: 90%;
+  width: 90%;
+  padding: 1em;
+}
+
+.tripTitle{
+  font-size: 2em;
+  margin-bottom: 0.4em;
+}
+
+.tripDescription{
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+
+.trip-images{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.imageContainer{
+  height: 70%;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 2%;
+}
+
+.imageArrow{
+  user-select: none;
+  font-size: 3rem;
+  color: black;
+  cursor: pointer;
+}
+
+.trip-image-container{
+  width: 100%; /* Full width of the parent container */
+  height: 100%; /* Maintain aspect ratio */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trip-image{
+  padding: 1%;
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 90%; /* Make the image take full width of the box */
+  height: 100%; /* Make the image take full height of the box */
+  object-fit: contain; /* Use 'contain' or 'cover' as needed */
+  object-position: center; /* Center the image */
+  border-radius: 0.5em; /* Rounded corners */
+}
+
+.trip-image-description{
+  padding: 1em;
+  border-radius: 0.4em;
+  z-index: 5;
+  width: 70%;
+  height: 6%;
+  background-color: whitesmoke;
+  overflow: scroll;
+  font-family: 'Times New Roman', Times, serif; /* //TODO Change font family and styling of this element */
+}
+
+.grassFooter{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 0%;
+  width: 100%;
+}
+
+.footer-image {
+  width: 100%; /* Adjust width as needed */
+  object-fit: cover; /* Maintain aspect ratio */
+  margin-bottom: -1em; /* Overlap the footer */
 }

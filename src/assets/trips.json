@@ -5,35 +5,102 @@
             "location": "Bali",
             "shortDescription": "A trip to Bali",
             "description": "A trip to Bali, Indonesia. We visited the beaches, the temples, and the rice fields. We also went to the monkey forest and the waterfalls.",
-            "images": ["bali.jpg"],
-            "extraStuff": [
+            "images": [
                 {
-                    "name": "Beaches",
-                    "description": "We visited the beaches in Bali. They were beautiful and the water was warm.",
-                    "images": ["beaches.jpg"]
+                    "imageAlt": "Bali Beaches",
+                    "imageSrc": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDB8fGJhbGklMjBiZWFjaGVzfGVufDB8fHx8MTYwNzI0MDE4OA&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the beaches in Bali. They were beautiful and the water was warm."
                 },
                 {
-                    "name": "Temples",
-                    "description": "We visited the temples in Bali. They were beautiful and the architecture was amazing.",
-                    "images": ["temples.jpg"]
+                    "imageAlt": "Bali Temples",
+                    "imageSrc": "https://images.unsplash.com/photo-1542926451-e17f6e47b780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGJhbGklMjB0ZW1wbGV8ZW58MHx8fHwxNjA3MjQwMTg5&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the temples in Bali. They were beautiful and the architecture was amazing."
                 },
                 {
-                    "name": "Rice Fields",
-                    "description": "We visited the rice fields in Bali. They were beautiful and the rice was delicious.",
-                    "images": ["ricefields.jpg"]
+                    "imageAlt": "Bali Rice Fields",
+                    "imageSrc": "https://images.unsplash.com/photo-1511113366782-9a17c7c7cb89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI2fHxyaWNlJTIwZmllbGR8ZW58MHx8fHwxNjA3MjQwMTkw&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the rice fields in Bali. They were beautiful and the rice was delicious."
                 },
                 {
-                    "name": "Monkey Forest",
-                    "description": "We visited the monkey forest in Bali. The monkeys were cute and friendly.",
-                    "images": ["monkeyforest.jpg"]
+                    "imageAlt": "Bali Monkey Forest",
+                    "imageSrc": "https://images.unsplash.com/photo-1587247091724-909f02e1d2b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fG1vbmtleSUyMGZvcmVzdHxlbnwwfHx8fDE2MDcyNDAyMjY&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the monkey forest in Bali. The monkeys were cute and friendly."
                 },
                 {
-                    "name": "Waterfalls",
-                    "description": "We visited the waterfalls in Bali. They were beautiful and the water was refreshing.",
-                    "images": ["waterfalls.jpg"]
+                    "imageAlt": "Bali Waterfalls",
+                    "imageSrc": "https://images.unsplash.com/photo-1574169208505-b11c6bb47704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDh8fHdhdGVyZmFsbHxlbnwwfHx8fDE2MDcyNDAyMjU&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the waterfalls in Bali. They were beautiful and the water was refreshing."
                 }
             ],
             "id": 1
+        },
+        {
+            "date": "2021-07-01",
+            "location": "Paris",
+            "shortDescription": "A trip to Paris",
+            "description": "A trip to Paris, France. We visited the Eiffel Tower, the Louvre, and the Notre Dame Cathedral. We also went to the Champs-Elysees and the Seine River.",
+            "images": [
+                {
+                    "imageAlt": "Paris Eiffel Tower",
+                    "imageSrc": "https://images.unsplash.com/photo-1519248257500-eb9a9e2f4a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGVpamZlbCUyMHRvd2VyfGVufDB8fHx8MTYwNzI0MDE4OA&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Eiffel Tower in Paris. It was beautiful and the view from the top was amazing."
+                },
+                {
+                    "imageAlt": "Paris Louvre",
+                    "imageSrc": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGxvdXZyZSUyMG1vdGV8ZW58MHx8fHwxNjA3MjQwMTg5&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Louvre in Paris. It was huge and the art was amazing."
+                },
+                {
+                    "imageAlt": "Paris Notre Dame Cathedral",
+                    "imageSrc": "https://images.unsplash.com/photo-1579885646980-cd4213b4fd0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vdHJlJTIwZGFtZSUyMGNhdGhlZWRyYWx8ZW58MHx8fHwxNjA3MjQwMTkx&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Notre Dame Cathedral in Paris. It was beautiful and the architecture was amazing."
+                },
+                {
+                    "imageAlt": "Paris Champs-Elysees",
+                    "imageSrc": "https://images.unsplash.com/photo-1586204578953-b62bc5be3a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNoYW1wcyUyMGVseXNlZXxlbnwwfHx8fDE2MDcyNDAyMjI&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Champs-Elysees in Paris. It was beautiful and the shopping was amazing."
+                },
+                {
+                    "imageAlt": "Paris Seine River",
+                    "imageSrc": "https://images.unsplash.com/photo-1506701516607-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHNlaW5lJTIwcml2ZXIlMjBkaW5pbmd8ZW58MHx8fHwxNjA3MjQwMjE1&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Seine River in Paris. It was beautiful and the boat ride was amazing."
+                }
+            ],
+            "id": 2
+        },
+        {
+            "date": "2021-08-01",
+            "location": "Tokyo",
+            "shortDescription": "A trip to Tokyo",
+            "description": "A trip to Tokyo, Japan. We visited the Tokyo Tower, the Senso-ji Temple, and the Meiji Shrine. We also went to the Tsukiji Fish Market and the Akihabara District.",
+            "images": [
+                {
+                    "imageAlt": "Tokyo Tower",
+                    "imageSrc": "https://images.unsplash.com/photo-1574047573903-161c38e73f65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRva3lvJTIwdG93ZXJ8ZW58MHx8fHwxNjA3MjQwMjM3&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Tokyo Tower in Tokyo. It was beautiful and the view from the top was amazing."
+                },
+                {
+                    "imageAlt": "Tokyo Senso-ji Temple",
+                    "imageSrc": "https://images.unsplash.com/photo-1527785170363-6e2b35b40b65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDIyfHxzZW5zb19ji2l8ZW58MHx8fHwxNjA3MjQwMjQy&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Senso-ji Temple in Tokyo. It was beautiful and full of history."
+                },
+                {
+                    "imageAlt": "Tokyo Meiji Shrine",
+                    "imageSrc": "https://images.unsplash.com/photo-1516492830678-8a632d5fbd1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fG1laWppJTIwc2hyaW5lfGVufDB8fHx8MTYwNzI0MDI0Nw&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Meiji Shrine in Tokyo. The forest surrounding it was tranquil and beautiful."
+                },
+                {
+                    "imageAlt": "Tokyo Tsukiji Fish Market",
+                    "imageSrc": "https://images.unsplash.com/photo-1575972349701-5dbd6a8a8e2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHRzdWtpJTIwZmlzaCUyMG1hcmtldHxlbnwwfHx8fDE2MDcyNDAyNTM&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Tsukiji Fish Market in Tokyo. The seafood was fresh and delicious."
+                },
+                {
+                    "imageAlt": "Tokyo Akihabara District",
+                    "imageSrc": "https://images.unsplash.com/photo-1578928508510-5888f3c9817d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGFraWhhYmFyYSUyMGRpc3RyaWN0fGVufDB8fHx8MTYwNzI0MDI3NA&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageDescription": "We visited the Akihabara District in Tokyo. It was lively with shops and cafes."
+                }
+            ],
+            "id": 3
         }
     ]
 }
