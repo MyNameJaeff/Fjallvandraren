@@ -113,7 +113,7 @@ export default function Root() {
 			<div id="selected-trip" className="selected-trip">
 				{selectedTrip ? <SelectedTrip trip={selectedTrip} /> : <SelectedTrip />}
 				<div className="grassFooter">
-					<img src="public/Grass.png" className="footer-image" alt="Grass" />
+					<img src="/Grass.png" className="footer-image" alt="Grass" />
 				</div>
 			</div>
 			<style>

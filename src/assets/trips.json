@@ -8,12 +8,12 @@
             "images": [
                 {
                     "imageAlt": "En vy över ett berg",
-                    "imageSrc": "public/images/Bruksvallarna_2021/Resized_20210630_113538.jpg",
+                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_113538.jpg",
                     "imageDescription": "Detta är en vy ifrån något typ av ställe, vet inte vart."
                 },
                 {
                     "imageAlt": "Ett berg",
-                    "imageSrc": "public/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
+                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
                     "imageDescription": "Det är ett berg, säkert stort. kommer inte ihåg namnet..."
                 }
             ],
