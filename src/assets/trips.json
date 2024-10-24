@@ -1,35 +1,20 @@
 {
     "Trips": [
         {
-            "date": "2021-06-01",
-            "location": "Bali",
-            "shortDescription": "A trip to Bali",
-            "description": "A trip to Bali, Indonesia. We visited the beaches, the temples, and the rice fields. We also went to the monkey forest and the waterfalls.",
+            "date": "2021",
+            "location": "Brusksvallarna",
+            "shortDescription": "En resa upp till bruksvallarna",
+            "description": "Vi åkte till bruksvallarna under 2021, bla bla bla, en massa text går här",
             "images": [
                 {
-                    "imageAlt": "Bali Beaches",
-                    "imageSrc": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDB8fGJhbGklMjBiZWFjaGVzfGVufDB8fHx8MTYwNzI0MDE4OA&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the beaches in Bali. They were beautiful and the water was warm."
+                    "imageAlt": "En vy över ett berg",
+                    "imageSrc": "public/images/Bruksvallarna_2021/Resized_20210630_113538.jpg",
+                    "imageDescription": "Detta är en vy ifrån något typ av ställe, vet inte vart."
                 },
                 {
-                    "imageAlt": "Bali Temples",
-                    "imageSrc": "https://images.unsplash.com/photo-1542926451-e17f6e47b780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGJhbGklMjB0ZW1wbGV8ZW58MHx8fHwxNjA3MjQwMTg5&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the temples in Bali. They were beautiful and the architecture was amazing."
-                },
-                {
-                    "imageAlt": "Bali Rice Fields",
-                    "imageSrc": "https://images.unsplash.com/photo-1511113366782-9a17c7c7cb89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI2fHxyaWNlJTIwZmllbGR8ZW58MHx8fHwxNjA3MjQwMTkw&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the rice fields in Bali. They were beautiful and the rice was delicious."
-                },
-                {
-                    "imageAlt": "Bali Monkey Forest",
-                    "imageSrc": "https://images.unsplash.com/photo-1587247091724-909f02e1d2b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fG1vbmtleSUyMGZvcmVzdHxlbnwwfHx8fDE2MDcyNDAyMjY&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the monkey forest in Bali. The monkeys were cute and friendly."
-                },
-                {
-                    "imageAlt": "Bali Waterfalls",
-                    "imageSrc": "https://images.unsplash.com/photo-1574169208505-b11c6bb47704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDh8fHdhdGVyZmFsbHxlbnwwfHx8fDE2MDcyNDAyMjU&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the waterfalls in Bali. They were beautiful and the water was refreshing."
+                    "imageAlt": "Ett berg",
+                    "imageSrc": "public/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
+                    "imageDescription": "Det är ett berg, säkert stort. kommer inte ihåg namnet..."
                 }
             ],
             "id": 1
