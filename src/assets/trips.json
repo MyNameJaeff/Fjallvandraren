@@ -2,13 +2,13 @@
     "Trips": [
         {
             "date": "2021",
-            "location": "Brusksvallarna",
-            "shortDescription": "En resa upp till bruksvallarna",
-            "description": "Vi åkte till bruksvallarna under 2021, bla bla bla, en massa text går här",
+            "location": "Bruksvallarna",
+            "shortDescription": "En resa upp till Bruksvallarna",
+            "description": "Vi åkte till Bruksvallarna under 2021, bla bla bla, en massa text går här",
             "images": [
                 {
                     "imageAlt": "En vy över ett berg",
-                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_113538.jpg",
+                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
                     "imageDescription": "Detta är en vy ifrån något typ av ställe, vet inte vart."
                 },
                 {
@@ -27,7 +27,7 @@
             "images": [
                 {
                     "imageAlt": "Paris Eiffel Tower",
-                    "imageSrc": "https://images.unsplash.com/photo-1519248257500-eb9a9e2f4a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGVpamZlbCUyMHRvd2VyfGVufDB8fHx8MTYwNzI0MDE4OA&ixlib=rb-1.2.1&q=80&w=400",
+                    "imageSrc": "/images/Skarkdalen_2024/20240730_123713 Claes på väg mot Silverfallet i Skärkdalen.jpg",
                     "imageDescription": "We visited the Eiffel Tower in Paris. It was beautiful and the view from the top was amazing."
                 },
                 {
