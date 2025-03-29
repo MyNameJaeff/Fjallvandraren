@@ -2,53 +2,53 @@
     "Trips": [
         {
             "date": "2021",
-            "location": "Bruksvallarna",
-            "shortDescription": "En resa upp till Bruksvallarna",
-            "description": "Vi åkte till Bruksvallarna under 2021, bla bla bla, en massa text går här",
+            "location": "Ljungdalen",
+            "shortDescription": "En resa upp till Ljungdalen",
+            "description": "Vi åkte till Ljungdalen under 2021, bla bla bla, en massa text går här",
             "images": [
                 {
-                    "imageAlt": "En vy över ett berg",
-                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
+                    "imageAlt": "En vy över Helags fjället",
+                    "imageSrc": "/images/Ljungdalen_2021/Resized_20210630_192236.jpg",
                     "imageDescription": "Detta är var vi slog läger nedanför Fjället Helags, i Ljungdalen. Denna bilden är tagen från var tältplats i riktning mot fjället och de tält som ses på bilden är andra besokare i området."
                 },
                 {
-                    "imageAlt": "Ett berg",
-                    "imageSrc": "/images/Bruksvallarna_2021/Resized_20210630_192236.jpg",
-                    "imageDescription": "Det är ett berg, säkert stort. kommer inte ihåg namnet..."
+                    "imageAlt": "Helags fjället",
+                    "imageSrc": "/images/Ljungdalen_2021/Resized_20210630_192236.jpg",
+                    "imageDescription": "Det är Helags fjället, Sveriges sydligaste fjäll som har en Glaciär"
                 }
             ],
             "id": 1
         },
         {
             "date": "2021-07-01",
-            "location": "Paris",
-            "shortDescription": "A trip to Paris",
-            "description": "A trip to Paris, France. We visited the Eiffel Tower, the Louvre, and the Notre Dame Cathedral. We also went to the Champs-Elysees and the Seine River.",
+            "location": "Skarkdalen",
+            "shortDescription": "A trip to Skarkdalen",
+            "description": "2024 åkte vi till Skärkdalen, en dal intill Flatruet och tillika nästgårds till Ljungdalen",
             "images": [
                 {
-                    "imageAlt": "Paris Eiffel Tower",
+                    "imageAlt": "Skarkdalen Eiffel Tower",
                     "imageSrc": "/images/Skarkdalen_2024/20240730_123713 Claes på väg mot Silverfallet i Skärkdalen.jpg",
                     "imageDescription": "Här gick Claes mot Silverfallet"
                 },
                 {
-                    "imageAlt": "Paris Louvre",
+                    "imageAlt": "Skarkdalen Louvre",
                     "imageSrc": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGxvdXZyZSUyMG1vdGV8ZW58MHx8fHwxNjA3MjQwMTg5&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Louvre in Paris. It was huge and the art was amazing."
+                    "imageDescription": "We visited the Louvre in Skarkdalen. It was huge and the art was amazing."
                 },
                 {
-                    "imageAlt": "Paris Notre Dame Cathedral",
+                    "imageAlt": "Skarkdalen Notre Dame Cathedral",
                     "imageSrc": "https://images.unsplash.com/photo-1579885646980-cd4213b4fd0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vdHJlJTIwZGFtZSUyMGNhdGhlZWRyYWx8ZW58MHx8fHwxNjA3MjQwMTkx&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Notre Dame Cathedral in Paris. It was beautiful and the architecture was amazing."
+                    "imageDescription": "We visited the Notre Dame Cathedral in Skarkdalen. It was beautiful and the architecture was amazing."
                 },
                 {
-                    "imageAlt": "Paris Champs-Elysees",
+                    "imageAlt": "Skarkdalen Champs-Elysees",
                     "imageSrc": "https://images.unsplash.com/photo-1586204578953-b62bc5be3a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNoYW1wcyUyMGVseXNlZXxlbnwwfHx8fDE2MDcyNDAyMjI&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Champs-Elysees in Paris. It was beautiful and the shopping was amazing."
+                    "imageDescription": "We visited the Champs-Elysees in Skarkdalen. It was beautiful and the shopping was amazing."
                 },
                 {
-                    "imageAlt": "Paris Seine River",
+                    "imageAlt": "Skarkdalen Seine River",
                     "imageSrc": "https://images.unsplash.com/photo-1506701516607-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHNlaW5lJTIwcml2ZXIlMjBkaW5pbmd8ZW58MHx8fHwxNjA3MjQwMjE1&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Seine River in Paris. It was beautiful and the boat ride was amazing."
+                    "imageDescription": "We visited the Seine River in Skarkdalen. It was beautiful and the boat ride was amazing."
                 }
             ],
             "id": 2
