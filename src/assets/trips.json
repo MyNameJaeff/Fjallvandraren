@@ -26,29 +26,29 @@
             "description": "2024 åkte vi till Skärkdalen, en dal intill Flatruet och tillika nästgårds till Ljungdalen",
             "images": [
                 {
-                    "imageAlt": "Skarkdalen Eiffel Tower",
+                    "imageAlt": "Skarkdalen",
                     "imageSrc": "/images/Skarkdalen_2024/20240730_123713 Claes på väg mot Silverfallet i Skärkdalen.jpg",
                     "imageDescription": "Här gick Claes mot Silverfallet"
                 },
                 {
-                    "imageAlt": "Skarkdalen Louvre",
+                    "imageAlt": "Skarkdalen",
                     "imageSrc": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGxvdXZyZSUyMG1vdGV8ZW58MHx8fHwxNjA3MjQwMTg5&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Louvre in Skarkdalen. It was huge and the art was amazing."
+                    "imageDescription": "We visited the Skarkdalen. It was huge and the art was amazing."
                 },
                 {
-                    "imageAlt": "Skarkdalen Notre Dame Cathedral",
+                    "imageAlt": "Skarkdalen",
                     "imageSrc": "https://images.unsplash.com/photo-1579885646980-cd4213b4fd0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vdHJlJTIwZGFtZSUyMGNhdGhlZWRyYWx8ZW58MHx8fHwxNjA3MjQwMTkx&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Notre Dame Cathedral in Skarkdalen. It was beautiful and the architecture was amazing."
+                    "imageDescription": "We visited Skarkdalen. It was beautiful"
                 },
                 {
-                    "imageAlt": "Skarkdalen Champs-Elysees",
+                    "imageAlt": "Skarkdalen",
                     "imageSrc": "https://images.unsplash.com/photo-1586204578953-b62bc5be3a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNoYW1wcyUyMGVseXNlZXxlbnwwfHx8fDE2MDcyNDAyMjI&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Champs-Elysees in Skarkdalen. It was beautiful and the shopping was amazing."
+                    "imageDescription": "We visited Skarkdalen. It was beautiful"
                 },
                 {
-                    "imageAlt": "Skarkdalen Seine River",
+                    "imageAlt": "Skarkdalen",
                     "imageSrc": "https://images.unsplash.com/photo-1506701516607-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHNlaW5lJTIwcml2ZXIlMjBkaW5pbmd8ZW58MHx8fHwxNjA3MjQwMjE1&ixlib=rb-1.2.1&q=80&w=400",
-                    "imageDescription": "We visited the Seine River in Skarkdalen. It was beautiful and the boat ride was amazing."
+                    "imageDescription": "We visited Skarkdalen. It was beautiful"
                 }
             ],
             "id": 2
