@@ -1,0 +1,212 @@
+{
+  "Trips": [
+    {
+      "id": 1,
+      "date": "Fake: 2021",
+      "location": "Ljungdalen",
+      "shortDescription": "En resa upp till Ljungdalen",
+      "description": "Fake: Vi åkte till Ljungdalen under 2021. Vandring mot Helags, Sveriges sydligaste fjäll med glaciär. Fint väder och god stämning.",
+      "images": [
+        {
+          "imageAlt": "En vy över Helags fjället",
+          "imageSrc": "/images/Ljungdalen_2021/Resized_20210630_192236.jpg",
+          "imageDescription": "Detta är var vi slog läger nedanför Fjället Helags, i Ljungdalen. Denna bilden är tagen från var tältplats i riktning mot fjället och de tält som ses på bilden är andra besokare i området."
+        },
+        {
+          "imageAlt": "Helags fjället",
+          "imageSrc": "/images/Ljungdalen_2021/Resized_20210630_192236.jpg",
+          "imageDescription": "Det är Helags fjället, Sveriges sydligaste fjäll som har en Glaciär"
+        },
+        {
+          "imageAlt": "Fake: Vy mot Helags",
+          "imageSrc": "/images/Ljungdalen_2021/Resized_20210630_125627.jpg",
+          "imageDescription": "Fake: Utsikt mot Helags under vandringen."
+        },
+        {
+          "imageAlt": "Fake: Mot Helags",
+          "imageSrc": "/images/Ljungdalen_2021/Mot Helags.jpg",
+          "imageDescription": "Fake: På väg mot Helags fjäll."
+        },
+        {
+          "imageAlt": "Fake: Fjällblommor mot Helags",
+          "imageSrc": "/images/Ljungdalen_2021/Fjäll blommor på väg mot Helags.jpg",
+          "imageDescription": "Fake: Fjällblommor längs stigen mot Helags."
+        },
+        {
+          "imageAlt": "Fake: Vy ned mot Helags glaciären",
+          "imageSrc": "/images/Ljungdalen_2021/Vy ned mot Helags glaciären.jpg",
+          "imageDescription": "Fake: Vy ned mot Helags glaciären."
+        },
+        {
+          "imageAlt": "Fake: Ljungdalen fjällmiljö",
+          "imageSrc": "/images/Ljungdalen_2021/209419699_4248142368540900_7271484554159426474_n.jpg",
+          "imageDescription": "Fake: Fjällmiljö i Ljungdalen."
+        },
+        {
+          "imageAlt": "Fake: Ljungdalen vandring",
+          "imageSrc": "/images/Ljungdalen_2021/211307654_4246685142019956_3813979733963565710_n.jpg",
+          "imageDescription": "Fake: Vandring i Ljungdalens fjäll."
+        },
+        {
+          "imageAlt": "Fake: Ljungdalen utsikt",
+          "imageSrc": "/images/Ljungdalen_2021/211369887_4246347542053716_984573591751503083_n.jpg",
+          "imageDescription": "Fake: Utsikt från stigen."
+        },
+        {
+          "imageAlt": "Fake: Ljungdalen läger",
+          "imageSrc": "/images/Ljungdalen_2021/211887925_4255662794455524_4178046959319532417_n.jpg",
+          "imageDescription": "Fake: Lägerplats i Ljungdalen."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "Fake: 2024",
+      "location": "Skärkdalen",
+      "shortDescription": "Fake: Vandring i Skärkdalen vid Flatruet",
+      "description": "Fake: 2024 åkte vi till Skärkdalen, en dal intill Flatruet och nära Ljungdalen. Silverfallet och fina vyer från stugan.",
+      "images": [
+        {
+          "imageAlt": "Fake: Claes på väg mot Silverfallet",
+          "imageSrc": "/images/Skarkdalen_2024/20240730_123713 Claes på väg mot Silverfallet i Skärkdalen.jpg",
+          "imageDescription": "Här gick Claes mot Silverfallet"
+        },
+        {
+          "imageAlt": "Fake: Vy över Skärkdalen",
+          "imageSrc": "/images/Skarkdalen_2024/20240801_082919 Vy över Skärkdalen ovan stugan.jpg",
+          "imageDescription": "Fake: Vy över Skärkdalen ovanför stugan."
+        },
+        {
+          "imageAlt": "Fake: Skärkdalen",
+          "imageSrc": "/images/Skarkdalen_2024/Messenger_creation_05abc44d-1bf7-4163-939d-6703d24634a9.jpeg",
+          "imageDescription": "Fake: Skärkdalen, dalen vid Flatruet."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Fake: 2020",
+      "location": "Ljungdalen",
+      "shortDescription": "Fake: Ljungdalen 2020",
+      "description": "Fake: Tidig vandring i Ljungdalen, fjällmiljö och lugna stigar.",
+      "images": [
+        {
+          "imageAlt": "Fake: Ljungdalen stig",
+          "imageSrc": "/images/Ljungdalen_2020/20210629_121955.jpg",
+          "imageDescription": "Fake: Stig i Ljungdalen."
+        },
+        {
+          "imageAlt": "Fake: Ljungdalen vy",
+          "imageSrc": "/images/Ljungdalen_2020/Resized_20210630_113538.jpg",
+          "imageDescription": "Fake: Vy från Ljungdalen."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "Fake: 2022",
+      "location": "Duved",
+      "shortDescription": "Fake: Fjällvandring vid Duved",
+      "description": "Fake: Vandring kring Duved med fina fjällvyer och dalar.",
+      "images": [
+        {
+          "imageAlt": "Fake: Duved fjäll",
+          "imageSrc": "/images/Duved_2022/20220719_140202.jpg",
+          "imageDescription": "Fake: Fjällvidder vid Duved."
+        },
+        {
+          "imageAlt": "Fake: Duved stig",
+          "imageSrc": "/images/Duved_2022/20220720_130121(0).jpg",
+          "imageDescription": "Fake: Vandring på stigen."
+        },
+        {
+          "imageAlt": "Fake: Duved utsikt",
+          "imageSrc": "/images/Duved_2022/20220720_130150.jpg",
+          "imageDescription": "Fake: Utsikt från Duved."
+        },
+        {
+          "imageAlt": "Fake: Duved landskap",
+          "imageSrc": "/images/Duved_2022/20220720_131145.jpg",
+          "imageDescription": "Fake: Landskap kring Duved."
+        },
+        {
+          "imageAlt": "Fake: Duved dal",
+          "imageSrc": "/images/Duved_2022/20220720_131225.jpg",
+          "imageDescription": "Fake: Dal vid Duved."
+        },
+        {
+          "imageAlt": "Fake: Duved fjällmiljö",
+          "imageSrc": "/images/Duved_2022/20220720_131445.jpg",
+          "imageDescription": "Fake: Fjällmiljö vid Duved."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "Fake: 2024",
+      "location": "Grövelsjön",
+      "shortDescription": "Fake: Höstvandring vid Grövelsjön",
+      "description": "Fake: Höstvandring vid Grövelsjön, stilla väder och vackra färger.",
+      "images": [
+        {
+          "imageAlt": "Fake: Grövelsjön",
+          "imageSrc": "/images/GrovelSjon_2024/20240915_094141.jpg",
+          "imageDescription": "Fake: Vy över Grövelsjön."
+        },
+        {
+          "imageAlt": "Fake: Grövelsjön morgon",
+          "imageSrc": "/images/GrovelSjon_2024/20240916_093116.jpg",
+          "imageDescription": "Fake: Morgon vid Grövelsjön."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "Fake: 2022",
+      "location": "Stendörren",
+      "shortDescription": "Fake: Vårvandring Stendörren",
+      "description": "Fake: Vårvandring i Stendörren, klippor och vatten.",
+      "images": [
+        {
+          "imageAlt": "Fake: Stendörren",
+          "imageSrc": "/images/StenDorren_2022/20220428_132041.jpg",
+          "imageDescription": "Fake: Klippmiljö i Stendörren."
+        },
+        {
+          "imageAlt": "Fake: Stendörren vy",
+          "imageSrc": "/images/StenDorren_2022/20220428_135538.jpg",
+          "imageDescription": "Fake: Vy över området."
+        },
+        {
+          "imageAlt": "Fake: Stendörren landskap",
+          "imageSrc": "/images/StenDorren_2022/20220428_135543.jpg",
+          "imageDescription": "Fake: Landskap Stendörren."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "Fake: 2019",
+      "location": "Tännäs",
+      "shortDescription": "Fake: Sommar i Tännäs",
+      "description": "Fake: Sommarvandring i Tännäs, klassisk fjällbygd.",
+      "images": [
+        {
+          "imageAlt": "Fake: Tännäs",
+          "imageSrc": "/images/Tannas_2019/20190702_124824.jpg",
+          "imageDescription": "Fake: Tännäs fjällmiljö."
+        },
+        {
+          "imageAlt": "Fake: Tännäs stig",
+          "imageSrc": "/images/Tannas_2019/20190702_125544.jpg",
+          "imageDescription": "Fake: Stig i Tännäs."
+        },
+        {
+          "imageAlt": "Fake: Tännäs utsikt",
+          "imageSrc": "/images/Tannas_2019/20190702_152147.jpg",
+          "imageDescription": "Fake: Utsikt från Tännäs."
+        }
+      ]
+    }
+  ]
+}

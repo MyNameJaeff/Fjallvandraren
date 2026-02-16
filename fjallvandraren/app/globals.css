@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0d120f;
+  --foreground: #e8eae6;
+  --surface: #151c17;
+  --surface-elevated: #1e2721;
+  --accent: #3d6b4a;
+  --accent-hover: #4a7c59;
+  --accent-soft: rgba(61, 107, 74, 0.15);
+  --muted: #6b7b6e;
+  --border: rgba(255, 255, 255, 0.07);
+  --shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --shadow-hero: 0 24px 48px rgba(0, 0, 0, 0.35);
+  --radius: 12px;
+  --radius-lg: 18px;
+  --transition: 0.2s ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+/* Custom animations that can't be easily done with Tailwind */
+@keyframes slide-up-appear {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@keyframes scroll-bounce {
+  0%, 100% {
+    transform: translateY(-2px);
+  }
+  50% {
+    transform: translateY(4px);
+  }
+}
+
+@keyframes lightbox-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes caption-slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-up-appear {
+  animation: slide-up-appear 0.6s ease-out;
+}
+
+.animate-scroll-bounce {
+  animation: scroll-bounce 2s ease-in-out infinite;
+}
+
+.animate-lightbox-fade-in {
+  animation: lightbox-fade-in 0.3s ease;
+}
+
+.animate-caption-slide-up {
+  animation: caption-slide-up 0.4s ease 0.1s backwards;
+}
+
+/* Font family classes */
+.font-julius {
+  font-family: var(--font-julius-sans-one), sans-serif;
+}
